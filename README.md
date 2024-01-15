@@ -5,3 +5,4 @@
 + block user system with small number limit
 + appeal system not working
 + missing surrender option
++ no server side settings
