@@ -7,3 +7,4 @@
 + missing surrender option
 + no server side settings
 + camera bug reset on nothing
++ no vote kick
